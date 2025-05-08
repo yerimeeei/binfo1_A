@@ -10,11 +10,3 @@ The main notebook in this repository demonstrates data analysis, including featu
 - `CoLab_TermProj_2025_1.ipynb` — The first week's Jupyter notebook for the lab work
 
 ---
-
-## 🛠️ Requirements
-
-To run this notebook, install the following:
-
-```bash
-conda create -n biolab python=3.11
-conda activate biolab
