@@ -8,5 +8,6 @@ The main notebook in this repository demonstrates data analysis, including featu
 ## 📁 Contents
 
 - `CoLab_TermProj_2025_1.ipynb` — The first week's Jupyter notebook for the lab work
+- `CoLab_TermProj_2025_2.ipynb` — The second week's Jupyter notebook for the lab work
 
 ---
