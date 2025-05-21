@@ -1,7 +1,8 @@
+*.pileup
 *.bam
 *.bai
 *.gz
-*.pdf
+*.bedgraph
 *.jpg
 *.png
 *.bed
