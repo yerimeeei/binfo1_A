@@ -4,3 +4,6 @@
 *.pdf
 *.jpg
 *.png
+*.bed
+*.sam
+*.gtf
