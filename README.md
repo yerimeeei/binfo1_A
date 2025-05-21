@@ -9,5 +9,6 @@ The main notebook in this repository demonstrates data analysis, including featu
 
 - `CoLab_TermProj_2025_1.ipynb` — The first week's Jupyter notebook for the lab work
 - `CoLab_TermProj_2025_2.ipynb` — The second week's Jupyter notebook for the lab work
+- `CoLab_TermProj_2025_3.ipynb` — The third week's Jupyter notebook for the lab work. The resulting figures for third week can be found in `fig/week3`
 
 ---
