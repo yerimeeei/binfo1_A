@@ -14,4 +14,8 @@ The main notebook in this repository demonstrates data analysis, including featu
 ---
 
 ## 💻 Plans for Own Analysis
-- Analyze the results of CLIP performed with a protein other than LIN28 using the same method. When applying Guided Mission 3, I may need to adjust the quantification or filtering methods depending on the experimental approach or protein type. By comparing multiple datasets, I could get into richer insights.
+- Analyze the results of CLIP performed with a protein other than LIN28 using the same method. When applying Guided Mission 3, I may need to adjust the methods depending on the experimental approach or protein type.
+
+### Progress
+- As an initial step, I applied the entropy and base mutation quantification pipeline from Guided Mission 3 to a CLIP-seq dataset of IGF2BP1 (GSE134383) focusing on the ACTB gene. This served as a prototype to test my ability to reuse core methods on a different RBP.
+
