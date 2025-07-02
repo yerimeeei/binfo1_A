@@ -1,4 +1,4 @@
-# 생물정보학 및 실습1 - Bioinformatics and Lab Practice 1
+# Bioinformatics and Lab Practice 1
 
 This repository contains assignments and practice notebooks for the SNU course **생물정보학 및 실습1**.  
 The main notebook in this repository demonstrates data analysis, including feature counting and basic preprocessing.
